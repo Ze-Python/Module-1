@@ -13,7 +13,7 @@ for i in range(Num_Bottles, 0, -1):
 else:
     # Once there i reaches zero, the else statement is called and prints the statements below.
     print("No more bottles of beer on the wall, no more bottles of beer.")
-    print("Time to buy more bottles of beer.")
+    print("Time to get more bottles of beer.")
 print()
 
 # Source: Reddit, r/lernpython: 99 Beers of Bottle Python Script.

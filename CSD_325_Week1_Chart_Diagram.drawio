@@ -1,0 +1,85 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
+  <diagram name="Page-1" id="8e0n_gwcH-iwh7lK9ji5">
+    <mxGraphModel dx="1245" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IQEil3dLCKM9lRMRUMTx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IQEil3dLCKM9lRMRUMTx-1" target="IQEil3dLCKM9lRMRUMTx-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IQEil3dLCKM9lRMRUMTx-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="252.5" y="80" width="135" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IQEil3dLCKM9lRMRUMTx-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IQEil3dLCKM9lRMRUMTx-2" target="IQEil3dLCKM9lRMRUMTx-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IQEil3dLCKM9lRMRUMTx-2" value="Accepts User Input" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="200" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IQEil3dLCKM9lRMRUMTx-4" value="Name: Jose Da Silva&lt;div&gt;Assignment: Week 1_Beer Bottles&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IQEil3dLCKM9lRMRUMTx-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IQEil3dLCKM9lRMRUMTx-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQEil3dLCKM9lRMRUMTx-9" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IQEil3dLCKM9lRMRUMTx-8">
+          <mxGeometry x="-0.4333" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQEil3dLCKM9lRMRUMTx-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IQEil3dLCKM9lRMRUMTx-5" target="IQEil3dLCKM9lRMRUMTx-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="441" y="360" />
+              <mxPoint x="441" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQEil3dLCKM9lRMRUMTx-23" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IQEil3dLCKM9lRMRUMTx-18">
+          <mxGeometry x="-0.0372" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQEil3dLCKM9lRMRUMTx-5" value="Number&lt;div&gt;&amp;nbsp;of Bottles &amp;gt;1?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="257.5" y="320" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IQEil3dLCKM9lRMRUMTx-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="520" as="sourcePoint" />
+            <mxPoint x="320" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQEil3dLCKM9lRMRUMTx-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IQEil3dLCKM9lRMRUMTx-26" target="IQEil3dLCKM9lRMRUMTx-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="360" as="targetPoint" />
+            <mxPoint x="260" y="600" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="201" y="600" />
+              <mxPoint x="201" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQEil3dLCKM9lRMRUMTx-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="IQEil3dLCKM9lRMRUMTx-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="760" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IQEil3dLCKM9lRMRUMTx-24" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="252.5" y="800" width="135" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IQEil3dLCKM9lRMRUMTx-26" value="New Number of Bottles Output" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IQEil3dLCKM9lRMRUMTx-27" value="Output Remindes User to Buy More&amp;nbsp;&lt;div&gt;Bottles of Beer&amp;nbsp;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IQEil3dLCKM9lRMRUMTx-28" value="Subtract One Bottle&amp;nbsp;&lt;div&gt;From Total&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="257.5" y="440" width="125" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
